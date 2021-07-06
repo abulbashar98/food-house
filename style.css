@@ -1,0 +1,135 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+h1{
+    font-size: 50px;
+    color: #352d2d;
+    font-weight: 900;
+}
+h2{
+    color: #5f5353;
+    font-weight: 800;
+}
+h3{
+    font-size: 15px;
+    color: black;
+    font-weight: bolder;
+}
+div p{
+    font-size: 13px;
+    font-weight: 600;
+    color: grey;}
+.orange-color{
+    color: orange;
+}
+.salmon-color{
+    color: salmon;
+}
+.fab-color{
+    color: cyan;
+    font-weight: 900;
+}
+#section-1{
+     text-align: center;
+    margin-bottom: 20px;
+    background-image: url(./images/images\ \(2\).jpg);
+    padding: 50px 100px;
+}
+.need-flexing{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-space{
+    width: 40%;
+margin-left: 5%;
+}
+.half-space img{
+    width:110%;
+}
+.link-button{
+    color:white;
+    font-weight: 700;
+   border-radius: 30px;
+    text-decoration: none;
+  padding: 10px 30px;
+    background-image: linear-gradient(#f17b6e,#f06000)}
+    #placement-part-1{
+        padding-top: 70px;
+        padding-left: 20px;
+        padding-bottom: 30px;}
+
+        .half-width{
+            width: 40%;
+            margin-left: 5%;
+        }
+        .half-width img{
+            width: 45%;
+        }
+        .our-food-back{
+            background-image: url(./images/7.png);
+        }
+        #placement-part-3{
+            margin-left: 20px;
+            padding-left: 10% ;
+        }
+        #single-box{
+            text-align: center;
+            margin-left: 15%;
+            margin-right: 15%;
+            margin-bottom: 50px;
+        }
+        #triplet-box-placement{
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-bottom: 50px;
+
+        }
+        .space-one-third{
+            width: 30%;
+            padding:1%;
+            box-shadow: gray 10px 20px 40px;
+            border-radius: 30px;
+            padding-left: 10px;
+            text-align: left;
+            margin-left: 20px;
+        }
+        .space-one-third img{
+            width: 100%;
+        border-radius: 30px;}
+        .space-one-third-contact{
+            width: 30%;
+            padding: 10px 7%;
+            background-image: url(./images/Frame\ 56.jpg);
+            text-align: left;
+            margin-left: 20px;}
+            .space-social{
+                width: 80%;
+                display: flex;
+            padding: 10px 7%;
+        box-shadow: gray 10px 20px 40px;
+            text-align: center;
+        margin: 30px 40px;
+        border-radius: 30px;
+    }
+    .social-media-placement{
+        margin:0 100px;
+        
+    }
+        footer{
+            background-color: black;
+
+        }
+        footer div{
+            padding:50px 150px ;
+            text-align: center;
+        }
+        footer p{
+            color: rgb(171, 218, 226);
+        }
+        
+        
+
+        
+    
